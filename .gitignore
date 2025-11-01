@@ -1,9 +1,6 @@
-data/base_clientes.csv
-data/base_consumos.csv
-data/base_saldos_creditos.csv
-data/base_saldos_cuentas.csv
-data/universo.csv
-.claude
+data/
+.claude/
 df_final apuntes.csv
 df_final.csv
 df_PSC.csv
+rftechy/
