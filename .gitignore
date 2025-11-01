@@ -1,6 +1,7 @@
 data/
-.claude/
-df_final apuntes.csv
 df_final.csv
 df_PSC.csv
+df_final apuntes.csv
+.claude/
 rftechy/
+.env
